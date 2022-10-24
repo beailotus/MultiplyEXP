@@ -1,0 +1,7 @@
+name: MultiplyEXP
+version: '${project.version}'
+main: beailotus_io.github.multiplyexp.Main
+api-version: 1.19
+authors: [ beailotus ]
+description: A plugin which multiplies the amount of EXP gained from each orb collection.
+website: https://github.com/beailotus/MultiplyEXP
